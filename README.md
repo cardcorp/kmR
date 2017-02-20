@@ -1,3 +1,7 @@
+This implementation has been **DEPRECATED** due to the large package size (bundled `jar` files).
+Use the [AWR.KMS](https://github.com/cardcorp/AWR.KMS) package instead, which uses the `jar` files bundled with the [AWR](https://gitlab.com/cardcorp/AWR) package.
+
+
 # kmR
 
 This R package includes wrapper functions around [Amazon's KMS Java client](http://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/kms/AWSKMSClient.html) to encrypt plain text and decrypt cipher using the Customer Master Keys stored in KMS.
